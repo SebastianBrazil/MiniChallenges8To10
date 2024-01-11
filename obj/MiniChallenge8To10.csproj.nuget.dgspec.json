@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/MiniChallenge8To10/MiniChallenge8To10.csproj": {}
+    "C:\\Users\\tommy\\Desktop\\CodeStack\\GitRepo\\Sebastian\\MiniChallenges8To10\\MiniChallenge8To10.csproj": {}
   },
   "projects": {
-    "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/MiniChallenge8To10/MiniChallenge8To10.csproj": {
+    "C:\\Users\\tommy\\Desktop\\CodeStack\\GitRepo\\Sebastian\\MiniChallenges8To10\\MiniChallenge8To10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/MiniChallenge8To10/MiniChallenge8To10.csproj",
+        "projectUniqueName": "C:\\Users\\tommy\\Desktop\\CodeStack\\GitRepo\\Sebastian\\MiniChallenges8To10\\MiniChallenge8To10.csproj",
         "projectName": "MiniChallenge8To10",
-        "projectPath": "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/MiniChallenge8To10/MiniChallenge8To10.csproj",
-        "packagesPath": "/Users/aplasticbin/.nuget/packages/",
-        "outputPath": "/Users/aplasticbin/Documents/Codestack/CombineLevelTwo/Assignments/MiniChallenge8To10/obj/",
+        "projectPath": "C:\\Users\\tommy\\Desktop\\CodeStack\\GitRepo\\Sebastian\\MiniChallenges8To10\\MiniChallenge8To10.csproj",
+        "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tommy\\Desktop\\CodeStack\\GitRepo\\Sebastian\\MiniChallenges8To10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aplasticbin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tommy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
