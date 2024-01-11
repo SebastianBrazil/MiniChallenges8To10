@@ -72,7 +72,7 @@ public class MiniChallenge10Service : IMiniChallenge10Service
         else
         {
             prompt[0] = $"You chose the category {reply}.";
-            prompt[1] = $"It is not a valid category...";
+            prompt[1] = $"It is not a valid category...Only seafood, chinese, and steakhouse are vaild.";
         }
         return prompt;
     }
